@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://raditv.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 25 Jul 2017 03:14:52 GMT</lastBuildDate><atom:link href="https://raditv.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://raditv.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 25 Jul 2017 03:32:55 GMT</lastBuildDate><atom:link href="https://raditv.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[The beginning]]></title><description><![CDATA[<div class="paragraph">
+<p>An admonition paragraph draws the reader&#8217;s attention to
+auxiliary information.
+Its purpose is determined by the label
+at the beginning of the paragraph.</p>
+</div>
+<div class="paragraph">
+<p>Here are the other built-in admonition types:</p>
+</div>]]></description><link>https://raditv.github.io/2017/07/25/The-beginning.html</link><guid isPermaLink="true">https://raditv.github.io/2017/07/25/The-beginning.html</guid><dc:creator><![CDATA[Rachmat Aditiya]]></dc:creator><pubDate>Tue, 25 Jul 2017 00:00:00 GMT</pubDate></item></channel></rss>
